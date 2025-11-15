@@ -19,7 +19,8 @@ The system integrates IBM Cognos for interactive visualization and presents a cl
 ## 📸 Screenshots
 
 🏠 Dashboard view
-dashboard.png
+<img width="1652" height="919" alt="image" src="https://github.com/user-attachments/assets/5a32fb6e-4433-4642-b124-4a1fc90f5566" />
+
 
 ## 🚀 Features
 💼 Cash Flow Overview
